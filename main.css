@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Artifika&display=swap');
+
+body  {
+    background-color: #E5C18E;
+    scroll-padding-top: 50em;
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0%;
+}
+
+HTML {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: #E5C18E;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #DB4C24;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background-color: #DB4C24;
+    width: 100%;
+    z-index: 2;
+}
+
+header div { 
+    margin: 0%;
+    width: 100%;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.menu{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    font-size: 1.5em;
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    background-color: #569C94;
+    font-family: 'Lucida Sans';
+}
+
+.menu a{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#mini {
+    height: 2em;
+    position: sticky;
+    left: 5em;
+    top: 2.5em;
+
+}
+
+.logo {
+    height: 5em;
+    width: 5em;
+    margin: 0%;
+    transition: 0.5s;
+}
+
+header :hover.logo{
+    position: static;
+    transform: scale(1.2);
+}
+
+#whats {
+    position: fixed;
+    height: 5em;
+    width: 5em;
+    top: 34em;
+    left: 75%;
+}
+
+
+.barraDP {
+    background-color: #569C94;
+    color: #000000;
+    font-family: 'Lucida Sans';
+    border: none;
+    border-radius: 10em;
+    transition: 0.5s;
+    font-size: 0.9em;
+    outline: none;
+}
+
+.areabanner {
+    margin: auto;
+}
+
+.pratos {    
+    padding-bottom: 2em;
+    background-color: #E5C18E;
+    width: 100%;
+    margin: 0%;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.ancoras{
+    margin-top: 5em;
+    font-family: Artifika;
+    text-align: center;
+    width: 75%;
+    font-size: 2em;
+    box-shadow: 0.2em 0.2em 0 #943318;
+    border: 0.4em solid #DB4C24;
+    border-radius: 20em;
+}
+
+.prato {
+    box-shadow: 0.2em 0.5em 0 #943318;
+    margin-top: 4em;
+    margin-bottom: 2em;
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 0.4em solid #DB4C24;
+    border-radius: 20%;
+    transition: 0.5s;
+    width: 20em;
+    height: 18em;
+    position: relative;
+}
+
+.pratos :hover.prato{
+    width: 21em;
+    height: 19em;
+    .vetor {
+        position: absolute;
+        width: 11em !important;
+    }
+}
+
+.prato a div {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.prato img{
+    width: 80%;
+}
+
+.vetor {
+    transition: 0.5s;
+    position: absolute;
+    width: 10em !important;
+    top: 1em;
+    left: -2em;        
+}
+
+a {
+    color: #0A0011;
+    text-decoration: none;
+}
+
+footer {
+    font-size: 100%;
+    background-color: #569C94;
+    width: 100%;
+    margin: 0%;
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.end div {
+    width: 50%;
+    margin-bottom: 1em;
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.end_img{
+    margin-top: 2em;
+    align-items: center;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.end_img img {
+    height: 2em;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+
+.fundo {
+    position: absolute;
+}
+

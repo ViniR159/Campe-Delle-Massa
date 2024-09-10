@@ -1,0 +1,93 @@
+{
+    "Lasanha": {
+        "Img":"Imagens/pratos/lasanha.png",
+        "Nome": "Lasanha",
+        "DescricaoR": "Essa é uma lasanha irresistível, com camadas de massa perfeitamente intercaladas por queijo cremoso e molho suculento, finalizada com um toque de manjericão fresco. Uma explosão de sabor em cada garfada!",
+        "Descricao": "Essa lasanha está com uma aparência tão impecável que parece ter saído diretamente de um desfile de moda culinário. As camadas de massa estão organizadas com a precisão de um arquiteto, cada uma empilhada meticulosamente como andares de um arranha-céu de carboidratos. O molho brilhoso escorre pelas laterais como um tapete vermelho, convidando todos a saborear o espetáculo. E no topo, a folhinha de manjericão é o equivalente gastronômico de uma coroa, como se dissesse: Aqui está a realeza das refeições! É quase como se estivesse posando para uma sessão de fotos, pronta para aparecer na capa de uma revista gourmet.",
+        "Ingredientes": "Massa de Lasanha <br> Molho Bechamel<br> Molho de Tomate<br> Carne Moída<br> Ricota ou Queijo Cottage<br> Espinafre<br> Queijo Muçarela<br> Parmesão Ralado<br> Ervas Frescas <br> Manteiga<br> Pimenta do Reino<br> Noz-Moscada<br>"              
+    },
+    "Pizza de Peperoni": {
+        "Img":"Imagens/pratos/pizza.png",
+        "Nome": "Pizza de Peperoni",
+        "DescricaoR": "Esta é a clássica Pizza de Pepperoni, com uma crosta dourada e crocante, coberta por queijo derretido e fatias de pepperoni perfeitamente distribuídas. Simples, deliciosa e impossível de resistir!",
+        "Descricao": "Essa é a suprema Pizza de Pepperoni, também conhecida como A Imperatriz das Pizzarias. Sua crosta dourada é como um manto real, envolvendo um oceano de queijo derretido, esticado até o limite da perfeição. Os discos de pepperoni, alinhados com a precisão de um exército em marcha, são os cavaleiros destemidos, prontos para defender seu território a qualquer custo. Cada mordida é um convite para entrar no reino da indulgência, onde as calorias não contam e o queijo é a moeda de troca. Se essa pizza pudesse falar, ela proclamaria: Ajoelhem-se, mortais, e rendam-se ao meu irresistível poder, pois sou a soberana do sabor!",
+        "Ingredientes": "Molho de tomate<br> Queijo mussarela<br> Fatias de pepperoni<br> Orégano<br> Azeite de oliva<br> Queijo parmesão ralado<br> Pimenta calabresa<br> Alho em pó<br> Cebola em pó<br> Manjericão fresco<br>"          
+    },
+    "Spaghetti": {
+        "Img":"Imagens/pratos/spaghetti.png",
+        "Nome": "Spaghetti",
+        "DescricaoR": "Apresentando o majestoso monte italiano: uma obra-prima culinária onde cada fio de spaghetti jaz em harmonia com seus irmãos numa dança enroscada sobre um prato branco clássico.",
+        "Descricao": "Imagine um emaranhado de raios de sol dourados, torcidos em forma comestível e deitados em uma tela de porcelana, este espaguete é a Mona Lisa dos pratos de massa. Cada fio é como uma piada contada por uma nonna italiana; é familiar, é reconfortante e você não pode deixar de sorrir com seu jeito chamativo. Os tomates cereja são os pontos de exclamação vermelhos brilhantes espalhados por essa pilha humorística de carboidratos, enquanto as folhas de manjericão estão como anedotas espirituosas esperando para refrescar seu paladar.",
+        "Ingredientes": "Macarrão espaguete<br> Molho de tomate<br> Tomates cereja<br> Folhas de manjericão fresco<br> Orégano e salsa)<br>" 
+    },
+    "Arancini": {
+        "Img":"Imagens/pratos/arancini.png",
+        "Nome": "Arancini",
+        "DescricaoR": "Bem-vindo ao mundo dos arancini, onde o risoto encontra sua alma gêmea na fritura e juntos criam uma obra-prima culinária digna de qualquer galeria… gastronômica!",
+        "Descricao": "Imagine um pequeno vulcão dourado e crocante que decidiu se disfarçar de bola de futebol para uma festa de petiscos. Ao invés de lava, ele está recheado com o tesouro escondido da cozinha italiana: um mix cremoso de arroz al dente, ervilhas verdes como esmeraldas e pedacinhos misteriosos que podem ser carne ou queijo - é o jogo do “adivinhe se puder” no seu paladar! Cada mordida é uma explosão de sabores que faz você se sentir como um arqueólogo descobrindo um tesouro culinário. E o melhor de tudo? Esse vulcão não queima a língua, só aquece o coração.",
+        "Ingredientes": "Arroz arbóreo<br> Ervilhas verdes<br> Queijo mozzarella<br> Carne moída<br> Farinha de trigo<br>Frango<br> Ovos batidos<br> Milho." 
+    },
+    "Risoto": {
+        "Img":"Imagens/pratos/risoto.png",
+        "Nome": "Risoto",
+        "DescricaoR": "Senhoras e senhores, garfos e facas! Preparem suas papilas gustativas para uma jornada epicurista enquanto mergulhamos no mundo cremoso e cheio de queijo de um prato espetacular – o expetacular risoto!",
+        "Descricao": "Imagine um risoto que decidiu ser o astro de uma comédia culinária: ele é cremoso, confiante e cheio de piadas “cheesy”. Em um palco iluminado por fogões, nosso herói grãos-de-arroz enfrenta seu arqui-inimigo, o ponto de cozimento perfeito. Com uma capa feita de queijo parmesão ralado e um elmo brilhante de folhas de manjericão fresco, ele desliza pela panela evitando os ataques do temido Exército Al Dente. Seu lema? “Nunca desista até absorver todo o caldo!” Ele faz malabarismos com cogumelos e canta duetos com camarões, enquanto lança olhares sedutores para as colheres de pau na plateia. O público está ao rubro; eles vieram ver esse espetáculo cremoso que promete não só saciar sua fome mas também suas almas com humor refinado e sabor inigualável. No final da noite, nosso herói recebe aplausos em pé - ou melhor, em panela - enquanto tira seu chapéu folhoso e dá seu último aceno: “Até a próxima refeição!”",
+        "Ingredientes": "Arroz arbório <br> Caldo de galinha ou vegetais <br> Cebola picada <br> Alho picado <br> Vinho branco seco <br> Queijo parmesão ralado <br> Manteiga sem sal <br> Azeite de oliva <br> Cogumelos frescos <br> Manjericão fresco <br> Sal e pimenta a gosto <br> Camarões (opcional) <br> Ervilhas (opcional) <br> Tomates secos (opcional) <br" 
+    },
+    "Tiramisú": {
+        "Img":"Imagens/pratos/tiramisú.png",
+        "Nome": "Tiramusú",
+        "DescricaoR": "O membro mais encantador e fotogênico do mundo das sobremesas: o Tiramisu! Esta delícia italiana em camadas não só conquista corações com seu queijo mascarpone cremoso e biscoitos embebidos em café, mas também sabe como posar para a câmera com sua cobertura de cacau perfeitamente polvilhada.",
+        "Descricao": "Imagine um tiramisu que decidiu se “agasalhar” para o inverno – cada camada cremosa está vestindo um suéterzinho de tricô, com padrões de flocos de neve e renas. O cacau em pó no topo parece uma neve recém-caída, e a colher ao lado é na verdade um patins de gelo encostado casualmente contra essa sobremesa “gelada”. Se você olhar bem de perto, pode até imaginar os biscoitos de champanhe sussurrando segredos de inverno enquanto se aconchegam no abraço cremoso do mascarpone. É como se o tiramisu estivesse pronto para uma patinação artística no congelador antes de derreter seu coração com cada mordida! Cada camada parece estar competindo para ser a mais aconchegante, com o mascarpone se esticando como um cachecol macio e os biscoitos de champanhe formando uma fila organizada, como se estivessem esperando para entrar em uma pista de patinação. O cacau em pó no topo é a cereja do bolo, ou melhor, a neve no topo da montanha, dando aquele toque final que faz você querer pegar uma colher e se juntar à diversão. É uma verdadeira festa de inverno em forma de sobremesa!",
+        "Ingredientes": "Biscoitos de champanhe (ladyfingers)<br> Café forte, resfriado<br> Queijo mascarpone<br> Açúcar refinado<br> Ovos frescos<br> Licor de café ou rum (opcional)<br> Cacau em pó para polvilhar<br>" 
+    },
+    "Osso Buco": {
+        "Img":"Imagens/pratos/Osso Buco.png",
+        "Nome": "Osso Buco",
+        "DescricaoR": "Osso Buco é um prato tradicional italiano, feito com jarrete de vitela cozido em um molho rico de vinho, tomate e vegetais aromáticos. Originário de Milão, ele é uma verdadeira obra-prima, famosa por sua carne macia que desmancha na boca e pelo sabor que conquista qualquer paladar.",
+        "Descricao": "Este Osso Buco parece ter acabado de sair de uma reunião de gala – bem vestido em seu paletó de molho suculento e com um brilho que faria qualquer outro prato morrer de inveja. As três porções robustas lembram pequenos troféus culinários, prontos para serem devorados como se fossem prêmios por um paladar refinado. No topo, as rodelas de cebola estão lá como acessórios finos, quase como cachecóis de inverno, envoltas em estilo gourmet. As ervas frescas, especialmente a salsa, estão tão orgulhosas que parecem estar aplaudindo o prato como um verdadeiro público gourmet. O molho, denso e brilhante, está lá para garantir que cada garfada seja um evento espetacular – quase como um abraço caloroso de sabor. E lá no fundo, a polenta se esconde com uma humildade deliciosa, servindo de palco macio para esse show gastronômico. Você não vai apenas comer esse Osso Buco, vai vivenciar uma experiência digna de tapete vermelho direto para o seu estômago.",
+        "Ingredientes": "Jarrete de vitela<br> Cebola<br> Cenoura<br> Aipo<br> Tomate<br> Vinho branco<br> Caldo de carne<br> Alho<br> Raspas de limão<br> Salsa<br> Azeite de oliva<br>" 
+    },
+    "Parmigiana": {
+        "Img":"Imagens/pratos/Parmigiana.png",
+        "Nome": "Parmigiana",
+        "DescricaoR": "A Parmigiana é um clássico da culinária italiana, com camadas de berinjela frita ou assada, molho de tomate e queijo gratinado. Originária do sul da Itália, este prato é reconfortante, cremoso e cheio de sabor, ideal para qualquer ocasião.",
+        "Descricao": "Ah, a Parmigiana! Esse prato não é só comida, é uma verdadeira novela italiana cheia de emoção. Imagine a berinjela entrando em cena como a protagonista tímida, toda modesta, mas sabendo que vai causar! O molho de tomate é o galã, todo intenso e apaixonado, cobrindo a berinjela como se fosse um abraço de novela das 8. E o queijo? Ah, o queijo é o coadjuvante que sempre rouba a cena – derretido, esticando em cada mordida como se estivesse dizendo “ciao, bella” ao paladar! As camadas de berinjela e queijo se empilham como capítulos de uma história de amor, enquanto o manjericão fresco entra como o toque final, aquela reviravolta inesperada que faz tudo ficar ainda melhor. Quando sai do forno, com o queijo borbulhando e o aroma irresistível tomando conta, a Parmigiana faz uma entrada triunfal, tipo uma diva que chegou atrasada na festa, mas que você perdoa porque ela é simplesmente irresistível. Cada garfada é como o final de um episódio emocionante – e você mal pode esperar pela próxima!",
+        "Ingredientes": "Berinjela<br> Molho de tomate<br> Queijo mozzarella<br> Queijo parmesão<br> Farinha de rosca<br> Ovos<br> Azeite de oliva<br> Manjericão fresco<br> Alho<br>" 
+    },
+    "Pizza Margherita": {
+        "Img":"Imagens/pratos/Pizza Margherita.png",
+        "Nome": "Pizza Margherita",
+        "DescricaoR": "A Pizza Margherita é a representação da simplicidade e perfeição da culinária italiana. Feita com ingredientes básicos e frescos, como tomate, mozzarella e manjericão, essa pizza tem uma origem clássica que conquista qualquer paladar com sua autenticidade.",
+        "Descricao": "Ah, a Pizza Margherita! Simples, elegante e sempre pronta para a festa, como aquela amiga que só usa jeans e camiseta, mas ainda assim é a mais estilosa da galera. O tomate fresco chega primeiro, como quem diz: “Calma, galera, eu sou o protagonista!”. A mozzarella derretida, branquinha como neve, aparece logo em seguida, esticando-se toda ao sair da fatia, parecendo que não quer ir embora tão cedo. E claro, o manjericão chega por último, tipo aquele convidado que vem só para dar o toque final e perfumar o ambiente. A crosta fina, levemente crocante, é como o tapete vermelho que sustenta esse trio de sabores. Quando você morde, é como se estivesse ouvindo um concerto italiano ao vivo – só que no seu paladar. E o melhor? Você pode comer quantos “bis” quiser, porque a Margherita não cansa de fazer sucesso. É a pizza que não precisa de artifícios, só de um forno quente e uma boca ansiosa. Porque no fim, a Margherita sabe que é a rainha dos corações e das fatias. Uma verdadeira obra-prima culinária com o carisma de uma estrela de cinema italiano!",
+        "Ingredientes": "Massa de pizza<br> Tomates frescos ou molho de tomate<br> Queijo mozzarella<br> Manjericão fresco<br> Azeite de oliva<br> Sal<br> Pimenta-do-reino (opcional)<br>" 
+    },
+    "Panna cotta": {
+        "Img":"Imagens/pratos/Panna cotta.png",
+        "Nome": "Panna cotta",
+        "DescricaoR": "A Panna Cotta é uma sobremesa clássica italiana, conhecida por sua textura leve e cremosa. Geralmente servida com frutas frescas e calda, ela é o equilíbrio perfeito entre doçura e suavidade, proporcionando uma experiência de sabor irresistível.",
+        "Descricao": "Ah, a Panna Cotta! Essa sobremesa parece ter saído diretamente de um spa italiano – tão lisinha, tão relaxada, que até as framboesas estão fazendo uma pausa zen no topo, só curtindo a vida. A calda escorre como se fosse uma massagem de luxo, deslizando suavemente pelas curvas da panna cotta, que nem se importa em ficar toda melada, afinal, ela nasceu para isso. E os pedacinhos de hortelã ali em cima? Eles são como os personal trainers desse doce, mantendo tudo em forma, fresquinho e com um toque de frescor. Quando você corta a primeira fatia, é como se a Panna Cotta estivesse dizendo: “Vai com calma, querido, tem bastante de mim para todo mundo”. E cada colherada é uma mini viagem à Itália, sem necessidade de passaporte. No final, essa sobremesa cremosa se derrete na boca com tanta classe que até as framboesas aplaudem. Uma sobremesa que faz você se sentir tão chique que até o seu estômago agradece em italiano.",
+        "Ingredientes": "Creme de leite fresco<br> Açúcar<br> Baunilha<br> Gelatina incolor<br> Framboesas<br> Calda de frutas vermelhas<br> Folhas de hortelã<br>" 
+    },
+    "Zabaglione": {
+        "Img":"Imagens/pratos/zabaglione.png",
+        "Nome": "Zabaglione",
+        "DescricaoR": "Zabaglione é uma clássica sobremesa italiana feita com gemas, açúcar e vinho, batida até ficar cremosa e leve. Frequentemente servida com frutas frescas, essa sobremesa é uma experiência suave e doce, cheia de elegância e sabor.",
+        "Descricao": "Este Zabaglione é praticamente o galã das sobremesas! Sabe aquela pessoa que chega na festa e todos param para olhar? Pois é, ele é assim. A espuma cremosa no topo parece ter saído de um filme em câmera lenta, suave e encantadora, enquanto os morangos flutuam como figurantes nesse espetáculo de sabor. O copo elegante, claro, é o palco perfeito para essa diva cremosa, que dá um show de leveza e sabor. A folha de hortelã no topo é como aquele acessório chique que ninguém sabe se é realmente necessário, mas todos concordam que fica lindo. E os morangos ao lado? Estão ali só esperando sua vez de brilhar, como se dissessem: Não esquece de mim, eu também sou estrela!. Cada colherada é uma pequena explosão de doçura, como se o próprio sol italiano tivesse sido transformado em sobremesa. E vamos combinar, quem resiste a uma sobremesa que combina cremosidade com um toque de vinho? É a mistura perfeita de sofisticação e diversão em um copinho!",
+        "Ingredientes": "Gemas de ovo<br> Açúcar<br> Vinho Marsala ou espumante<br> Morangos frescos<br> Folhas de hortelã<br> Baunilha (opcional)<br>" 
+    },
+    "Zeppolina": {
+        "Img":"Imagens/pratos/Zeppolina.png",
+        "Nome": "Zeppolina",
+        "DescricaoR": "A Zeppolina é um doce italiano clássico, geralmente frito ou assado, recheado com creme de confeiteiro e finalizado com uma generosa camada de açúcar de confeiteiro. Tradicional em várias festas italianas, ela encanta tanto pelo sabor quanto pela aparência charmosa.",
+        "Descricao": "A Zeppolina parece a joia da confeitaria, toda trabalhada no visual, com sua coroa de creme de confeiteiro que mais parece um cabelo perfeitamente penteado para um baile de gala. No centro, uma cereja solitária, posando como se fosse o ponto final dessa obra-prima açucarada, e ainda polvilhada com açúcar de confeiteiro, que brilha como purpurina. Essa belezura é como aquela amiga que vai pra festa e sai com a maquiagem intacta – ninguém sabe como, mas está sempre impecável. Quando você a pega, já sabe que vai ser amor à primeira mordida. O creme é tão suave que dá vontade de apertar de tão fofinho, e a massa é leve como uma nuvem que resolveu cair direto na sua boca. A cada mordida, o açúcar sobe como fogos de artifício em festa italiana, explodindo de doçura. No fim, você fica olhando para a Zeppolina com um misto de felicidade e saudade, já pensando na próxima. Uma verdadeira rainha do reino dos doces, com a simplicidade de quem só precisa de creme e açúcar para conquistar corações.",
+        "Ingredientes": "Farinha de trigo<br> Fermento biológico<br> Ovos<br> Açúcar<br> Creme de confeiteiro<br> Manteiga<br> Leite<br> Cereja<br> Açúcar de confeiteiro<br>" 
+    },
+    "Struffoli": {
+        "Img":"Imagens/pratos/Struffoli.png",
+        "Nome": "Struffoli",
+        "DescricaoR": "Uma montanha de Struffoli repousa sobre um prato dourado, adornada com confetes coloridos e cerejas brilhantes - um carnaval de confeitaria que promete diversão e doçura em cada mordida!",
+        "Descricao": "Imagine uma festa de sobremesas italianas onde os Struffoli ganham vida! Eles estão rolando pelo prato, desviando dos confeitos como se estivessem em um jogo de arcade. Alguns subiram nas cerejas em calda, usando-as como chapéus, enquanto outros empurram seus amigos em poças de mel. A montanha de Struffoli parece um parque de diversões açucarado, com cada bolinha dourada se divertindo ao máximo. É como se estivessem competindo para ver quem consegue ficar mais coberto de mel e confeitos coloridos. E claro, tem sempre aquele Struffoli mais travesso que tenta roubar o chapéu de cereja do outro. No fundo, mais montanhas de Struffoli esperam ansiosamente para se juntar à diversão. É uma verdadeira bagunça deliciosa e festiva, onde cada mordida promete uma explosão de doçura e alegria. Quem diria que esses pequenos doces poderiam ser tão animados?",
+        "Ingredientes": "Farinha<br> Ovos<br> Mel<br> Açúcar<br> Manteiga<br> Limão (raspas)<br> Laranja (raspas)<br> Licor (opcional)<br> Fermento em pó<br> Sal<br> Óleo para fritar<br> Confeitos coloridos<br> Cerejas em calda<br>" 
+    }
+}
